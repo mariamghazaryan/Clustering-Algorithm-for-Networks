@@ -1,0 +1,6 @@
+C:\Users\Samsung\Desktop\ClusterinGAlgorithmForNetworks\ClusterinGAlgorithmForNetworks\bin\Debug\ClusterinGAlgorithmForNetworks.exe.config
+C:\Users\Samsung\Desktop\ClusterinGAlgorithmForNetworks\ClusterinGAlgorithmForNetworks\bin\Debug\ClusterinGAlgorithmForNetworks.exe
+C:\Users\Samsung\Desktop\ClusterinGAlgorithmForNetworks\ClusterinGAlgorithmForNetworks\bin\Debug\ClusterinGAlgorithmForNetworks.pdb
+C:\Users\Samsung\Desktop\ClusterinGAlgorithmForNetworks\ClusterinGAlgorithmForNetworks\obj\Debug\ClusterinGAlgorithmForNetworks.exe
+C:\Users\Samsung\Desktop\ClusterinGAlgorithmForNetworks\ClusterinGAlgorithmForNetworks\obj\Debug\ClusterinGAlgorithmForNetworks.pdb
+C:\Users\Samsung\Desktop\ClusterinGAlgorithmForNetworks\ClusterinGAlgorithmForNetworks\obj\Debug\ClusterinGAlgorithmForNetworks.csprojResolveAssemblyReference.cache
